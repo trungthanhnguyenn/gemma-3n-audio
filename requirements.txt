@@ -1,1 +1,12 @@
-transformers==4.56.2
+unsloth
+torch
+torchaudio
+huggingface_hub
+datasets
+trl
+python-dotenv
+numpy
+transformers
+pandas
+accelerate
+bitsandbytes
